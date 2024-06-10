@@ -1,4 +1,5 @@
---
+-- SPI_pkg
+-- Repository: https://github.com/DRubioG/UART_pkg
 -- This package simulates the communication between two devices using SPI
 -- It is needed at least one part for the master read/write and other for
 -- the slave read/write.
